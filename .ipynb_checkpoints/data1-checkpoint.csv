@@ -1,0 +1,6 @@
+income,credit score,employement,collateral,loan approval
+high,good,yes,yes,yes
+medium,bad,no,no,no
+high,yes,no,yes,yes
+medium,good,no,no,no
+
